@@ -2,12 +2,26 @@
 layout: archive
 ---
 
-{{ content }}
+{% include video id="GNhlNSLQAFE" provider="youtube" %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<p style="text-align:justify">
+    I received my Honours Degree of Bachelor of Science Honours in Engineering from University of Moratuwa,
+    where I completed my thesis on Deep Learning through Augmented Reality Based User Interaction for Collaborative Automation
+    under the supervision of <a href="https://scholar.google.com/citations?user=YaEJbvYAAAAJ&hl=en">Dr. Ranga Rodrigo</a>.
+</p>
 
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
+<p style="text-align:justify">
+    I did my internship at LiveLabs Urban Lifestyle Innovation Platform, School of Information Systems, Singapore Management University with the
+    supervision of <a href="https://scholar.google.com/citations?user=GR9VzaMAAAAJ&hl=en">Prof. Jie Xiong</a> and
+    <a href="https://scholar.google.com/citations?user=qhKU0oMAAAAJ&hl=en">Prof. Youngki Lee</a>.
+</p>
 
-{% include paginator.html %}
+<!--{{ content }}-->
+
+<!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>-->
+
+<!--{% for post in paginator.posts %}-->
+  <!--{% include archive-single.html %}-->
+<!--{% endfor %}-->
+
+<!--{% include paginator.html %}-->
