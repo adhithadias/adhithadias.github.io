@@ -16,17 +16,17 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adhitha Dias"
+title                    : "Home"
 title_separator          : "-"
-subtitle                 : "Software Engineer"
+subtitle                 : "Version_1.0"
 name                     : "Adhitha Dias"
 description              : "This is my personal website. Please find my personal content on this site."
 url                      : "https://adhithadias27.github.io"
-baseurl                  : "/adhithadias27.github.io"
+baseurl                  : ""
 repository               : "adhithadias27/adhithadias27.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.jpg"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:

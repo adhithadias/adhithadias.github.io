@@ -61,5 +61,3 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 ---
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
