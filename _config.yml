@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal web page"
+title                    : "Adhitha Dias"
 title_separator          : "-"
-subtitle                 : "version 1.0"
+subtitle                 : "Software Engineer"
 name                     : "Adhitha Dias"
 description              : "This is my personal website. Please find my personal content on this site."
 url                      : "https://adhithadias27.github.io"
