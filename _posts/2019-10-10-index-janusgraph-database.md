@@ -3,10 +3,11 @@ title:  "Index JanusGraph Database"
 search: true
 categories: 
   - Jekyll
-last_modified_at: 2019-20-14T08:06:00-05:00
+last_modified_at: 2019-11-19T08:06:00-05:00
+toc: true
 ---
 
-First you have to kill the gremlin server and change some parameters in the server script
+##### First you have to kill the gremlin server and change some parameters in the server script
 ```bash
 ps aux | grep gremlin # finds the gramlin process id
 sudo kill -9 8532
@@ -21,7 +22,7 @@ sudo bin/gremlin-server.sh conf/gremlin-server/gremlin-server.yaml &
 
 ```
 
-Login to the gremlin console after restarting the server
+##### Login to the gremlin console after restarting the server
 ```bash
 sudo ./bin/gremlin.sh
 
@@ -30,7 +31,7 @@ sudo ./bin/gremlin.sh
 :remote console
 ```
 
-Let's assume the database is empty. Now we have to first create a node for indexing.
+##### Let's assume the database is empty. Now we have to first create a node for indexing.
 Let's create an account node
 
 ```groovy
@@ -38,7 +39,7 @@ g.addV('Account').property(single, 'id', '11111111').next()
 g.tx().commit()
 ```
 
-Check for open transactions and close them
+##### Check for open transactions and close them
 ```groovy
 graph.getOpenTransactions()
 // to remove any open transactions <- remove all open transactions by repeating the command
@@ -60,7 +61,7 @@ mgmt.printSchema()
 mgmt.commit()
 ```
 
-Now let's register the index with the graph. This commands adds an index with both the vertex label and a key property
+##### Now let's register the index with the graph. This commands adds an index with both the vertex label and a key property
 ```groovy
 graph.tx().rollback()  //Never create new indexes while a transaction is active
 mgmt = graph.openManagement()
@@ -70,7 +71,7 @@ mgmt.buildIndex('byAccountIdAndLabel', Vertex.class).addKey(accountId).indexOnly
 mgmt.commit()
 ```
 
-Now if you look at the schemas, you will see a Vertex Index Name by 'byAccountIdAndLabel' in the REGISTERED state
+##### Now if you look at the schemas, you will see a Vertex Index Name by 'byAccountIdAndLabel' in the REGISTERED state
 ```groovy
 //Wait for the index to become available
 ManagementSystem.awaitGraphIndexStatus(graph, 'byAccountIdAndLabel').call()
@@ -87,7 +88,7 @@ mgmt.commit()
 Now if you do a print schema command, you will see that the 'byAccountIdAndLabel' index status is turned to ENABLED
 
 
-If you are unsuccessful in executing this procedure due to some interruption and the index gets 
+##### If you are unsuccessful in executing this procedure due to some interruption and the index gets 
 stuck at the INSTALLED state there is a workaround to ENABLE the index
 
 
