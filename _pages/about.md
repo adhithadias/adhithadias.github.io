@@ -2,16 +2,23 @@
 permalink: /about/
 title: "About"
 excerpt: "About myself"
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
+layouts_gallery_1:
+  - url: /assets/images/fpga_image.jpeg
+    image_path: /assets/images/fpga_image.jpeg
+    alt: "FPGA Image"
+  - url: /assets/images/iot_alarm_image.jpeg
+    image_path: /assets/images/iot_alarm_image.jpeg
+    alt: "IoT Alarm"
+  - url: /assets/images/warp_devices_image.jpeg
+    image_path: /assets/images/warp_devices_image.jpeg
+    alt: "AoA using WARP Devices"
+layouts_gallery_2:
+  - url: /assets/images/slrc-robots.jpg
+    image_path: /assets/images/slrc-robots.jpg
+    alt: "SLRC Robots"
+  - url: /assets/images/fyp_robots_image.jpeg
+    image_path: /assets/images/fyp_robots_image.jpeg
+    alt: "FYP Robots"
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
 ---
@@ -21,7 +28,8 @@ where I completed my thesis on Deep Learning through Augmented Reality Based Use
 Dr. Ranga Rodrigo.
 {: .text-justify}
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+{% include gallery id="layouts_gallery_2" %}
+{% include gallery id="layouts_gallery_1" %}
 
 I did my internship at LiveLabs Urban Lifestyle Innovation Platform, School of Information Systems, Singapore Management University with the
 supervision of 
@@ -40,15 +48,12 @@ supervision of
 - Multi-core architectures and security.
 - Signal processing
 
-## Demo Pages
+## More Content
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Collection Page][collection-archive] | Single page from a collection. |
+| [Year Archive][year-archive] | Posts grouped by year|
+| [Collection Page][collection-archive] | Collection page. |
 | [Categories Archive][categories-archive] | Posts grouped by category. |
 | [Tags Archive][tags-archive] | Posts grouped by tag. |
 
