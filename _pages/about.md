@@ -9,8 +9,8 @@ layouts_gallery:
   - url: /assets/images/mm-layout-single-meta.png
     image_path: /assets/images/mm-layout-single-meta.png
     alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
+  - url: /assets/images/slrc-robots.jpg
+    image_path: /assets/images/slrc-robots.jpg
     alt: "archive layout example"
 last_modified_at: 2019-08-27T15:46:43-04:00
 toc: true
