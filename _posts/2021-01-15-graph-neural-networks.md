@@ -7,12 +7,12 @@ categories:
 last_modified_at: 2021-01-15T08:06:00-05:00
 ---
 
-Graph Neural Networks(GNN) are a powerful tool for solving problems on graph-structured inputs. </br></br>
+Graph Neural Networks(GNN) are a powerful tool for solving problems on graph-structured inputs.  \
 GNNs are a super exciting sub-area of machine learning that is getting a lot of attention and activity and some impressive 
 results recently.
 Google team recently used the molecular structure of compounds along with GNNs to predict their aroma
 and showed that, that significantly out performed prior methods. GNNs are a broad topic of knowledge. Graphs in general in the context of 
-machine learning. [8] </br></br>
+machine learning. [8] \
 This article explains the basics of Graph Neural Networks, and their usages in the context of Program Representation and Graph matching.
 Graph Neural networks are an extension to traditional neural networks that
 take full advantage of the graph structure.
@@ -112,16 +112,15 @@ The output layer is a linear transformation, generating a prediction for each
 node, such as its future value at the next time step." <sup>[4]</sup>
 
 ## References
-[1]: [Course Page - Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) </br>
-[2]: [YouTube - Stanford CS224W - Machine Learning with Graphs - Fall 2018](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) | [Course Material](http://snap.stanford.edu/class/cs224w-2019/) </br>
-[3]: [Git Page - Graph Neural Network Papers](https://github.com/thunlp/GNNPapers) </br>
-[4]: [Z. Wu, S. Pan, F. Chen, G. Long, C. Zhang, P.S. Yu,, 
-"A Comprehensive Survey on Graph Neural Networks"](https://arxiv.org/pdf/1901.00596.pdf) </br>
+
+[1]: [Course Page - Stanford CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/)   
+[2]: [YouTube - Stanford CS224W - Machine Learning with Graphs - Fall 2018](https://www.youtube.com/playlist?list=PL-Y8zK4dwCrQyASidb2mjj_itW2-YYx6-) | [Course Material](http://snap.stanford.edu/class/cs224w-2019/)  
+[3]: [Git Page - Graph Neural Network Papers](https://github.com/thunlp/GNNPapers)  
+[4]: [Z. Wu, S. Pan, F. Chen, G. Long, C. Zhang, P.S. Yu,,"A Comprehensive Survey on Graph Neural Networks"](https://arxiv.org/pdf/1901.00596.pdf)  
 [5]: M. Defferrard, X. Bresson, and P. Vandergheynst, 
-“Convolutional neural networks on graphs with fast localized spectral filtering,” in Proc. of NIPS, 2016, pp. 3844–3852. </br>
+“Convolutional neural networks on graphs with fast localized spectral filtering,” in Proc. of NIPS, 2016, pp. 3844–3852.  
 [6]: T. N. Kipf and M. Welling, 
-“Variational graph auto-encoders,” NIPS Workshop on Bayesian Deep Learning, 2016. </br>
+“Variational graph auto-encoders,” NIPS Workshop on Bayesian Deep Learning, 2016.  
 [7]: B. Yu, H. Yin, and Z. Zhu, 
-“Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting,” in Proc. of IJCAI, 2018, pp. 3634–3640. </br>
-[8]: [B.S. Lengeling1*, J.N. Wei1, B.K. Lee1 , R.C Gerkin , A.A. Guzik , and A.B. Wiltschko, 
-"Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules"](https://arxiv.org/pdf/1910.10685.pdf)
+“Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting,” in Proc. of IJCAI, 2018, pp. 3634–3640.  
+[8]: [B.S. Lengeling1*, J.N. Wei1, B.K. Lee1 , R.C Gerkin , A.A. Guzik , and A.B. Wiltschko,"Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules"](https://arxiv.org/pdf/1910.10685.pdf)
