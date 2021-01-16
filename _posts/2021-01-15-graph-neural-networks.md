@@ -31,12 +31,12 @@ With machine learning there are multiple tasks that one can carry out on a graph
 1. Node classification: Predict the type of given node. 
    Examples include identifying fake users in a social media platform or any other 
    rating system like Google Maps or Amazon Prime </br>
-   ![](/_posts/_gnn/node_classification.png)
+   ![](/assets/images/posts/gnn/node_classification.png)
 2. Link prediction: Predict whether 2 nodes in a network are likely to have a link. 
    Link prediction has uses in friend recommendation, movie recommendation, 
    knowledge graph completion (like associativity between good/bad drugs, and their side effects), 
    metabolic network reconstruction </br>
-   ![](/_posts/_gnn/link_prediction.png)
+   ![](/assets/images/posts/gnn/link_prediction.png)
 3. Community detection: Identify densely linked clusters of nodes. Community detection has applications in fraud detection
 4. Network similarity: How similar are two (sub)networks. This could be used to identifying similar code blocks in a computer programme.
 
@@ -52,7 +52,7 @@ How to define similarity - in a recommender system
 Heterogeneous GNN (Decagon) - predic side effects of drugs
 Goal-directed generation (GCPN) - molecule generation
 
-Message passing in graph neural networks and node classification
+## Message passing in graph neural networks and node classification
 
 The idea of message parsing in a graph network is a powerful concept
 because a lot of the algorithms can be understood from that perspective. 
@@ -60,9 +60,9 @@ In simple terms a node in a graph can send and receive messages along its
 edges/connections with its neighbors. This is the essence of label 
 propagation algorithms. 
 
-Graph/Node Representation Learning
+## Graph/Node Representation Learning
 
-![](/_posts/_gnn/embed_space.png) | ![](/_posts/_gnn/encoding_graph.png)
+
 
 In order to use the graphs in neural network setting, we need to embed the graphs in d-dimensional space 
 such that similar nodes in the graph are embedded close together, i.e. dissimilar nodes in the graph
@@ -70,8 +70,10 @@ should be embedded far apart in the embedding space.
 Therefore, an encoding function is needed such that once graph nodes are encoded, the similarity in the
 graph space is approximated in the embedding space.
 
-Graph Neural Networks
+## Graph Neural Networks
 
+![](/assets/images/posts/gnn/embed_space.png)
+![](/assets/images/posts/gnn/encoding_graph.png)
 
 
 ## References
