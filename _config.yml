@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+# theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -18,14 +18,14 @@ minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "da
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-subtitle                 : "Version_1.0"
+subtitle                 : # "Version_1.0"
 name                     : "Adhitha Dias"
-description              : "This is my personal website. Please find my personal content on this site."
+description              : "Web page."
 url                      : "https://adhithadias.github.io"
 baseurl                  : ""
 repository               : "adhithadias/adhithadias.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.jpg"
+logo                     : # "/assets/images/logo.jpg"
 masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-dark" # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -109,19 +109,19 @@ analytics:
 author:
   name             : "Adhitha Dias"
   avatar           : "/assets/images/avatar.jpeg"
-  bio              : "Computer architecture enthusiast."
-  location         : "Colombo, Sri Lanka"
+  bio              : "Graduate student at Purdue University"
+  location         : "West Lafayette, IN"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:adhithadias27@gmail.com
+      url: mailto:kadhitha@purdue.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://adhithadias.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/adhithadias27"
+      url: "https://twitter.com/AdhithaDias"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100009582348344"
@@ -140,7 +140,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/adhithadias27"
+      url: "https://twitter.com/AdhithaDias"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=100009582348344"
