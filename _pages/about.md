@@ -9,11 +9,14 @@ toc: true
 Email: kadhitha [AT] purdue [DOT] edu
 {: .text-justify}
 
+
+<span style="color:blue">I am currently looking for internship opportunities, for summer 2023, related to compilers, programming languages and high-performance computing, preferably a research one.</span>
+
 I am Adhitha Dias, a graduate student at Purdue ECE, working with [Prof. Milind Kulkarni]({{"https://engineering.purdue.edu/~milind/"}}). I am broadly interested in systems, compilers and high performance computing. My current research focuses on optimized code generation for sparse tensor algebraic operations.
 
-I received my Honours Degree of Bachelor of Science Honours in Engineering (B.Sc.(Hons.) in Engineering) from University of Moratuwa,
+I received my Honors Degree of Bachelor of Science Honors in Engineering (B.Sc.(Hons.) in Engineering) from University of Moratuwa,
 where I completed my thesis on Deep Learning through Augmented Reality Based User Interaction for Collaborative Automation under the advisement of
-Dr. Ranga Rodrigo.
+[Dr. Ranga Rodrigo]({{"https://ranga.staff.uom.lk/"}}).
 {: .text-justify}
 
 During my undergrad, I did an internship at LiveLabs Urban Lifestyle Innovation Platform, School of Information Systems, Singapore Management University with the
@@ -25,23 +28,21 @@ supervision of
 Upon graduation, before starting my graduate studies, I worked as a Software Engineer at Sysco LABS, Sri Lanka where we developed and maintained applications for Sysco Corporation, USA.
 {: .text-justify}
 
-[CV \[PDF\]]({{ "/assets/pdf/Adhitha_Dias_CV.pdf" | relative_url }}) [SOP(Outdated) \[PDF\]]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }})
+[CV]({{ "/assets/pdf/Adhitha_Dias_CV.pdf" | relative_url }})   [SOP(Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }})
 {: .text-left}
 
 
 ## News!
 ---
 
-* Octobar 2021: Attended Programming Language Mentoring Workshop (PLMW) at SPLASH '21 
-    (ACM SIGPLAN conference on Systems, Programming Languages, and Applications: Software for Humanity)
-* June 2021: Attended Programming Language Mantoring Workshop (PLMW) at PLDI '21 
-    (ACM SIGPLAN conference on Programming Language Design and Implementation)
+* June 2022: Our paper, my first paper as a grad student, won the best paper award at the International Conference on Supercomputing (ICS) '22
+* June 2022: Received a travel grant to attend PLDI '22
+* May 2022: Our paper titled, SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring, was accepted at the International Conference on Supercomputing '22
+* Octobar 2021: Attended Programming Language Mentoring Workshop (PLMW) at SPLASH '21 (ACM SIGPLAN conference on Systems, Programming Languages, and Applications: Software for Humanity)
+* June 2021: Attended Programming Language Mantoring Workshop (PLMW) at PLDI '21 (ACM SIGPLAN conference on Programming Language Design and Implementation)
 * January 2021: Started my PhD in Electrical and Computer Engineering at Purdue University.
-* December 2020: Left my first job at Sysco LABS, Sri Lanka 
-    (Sysco LABS supports Sysco’s digital transformation with engineering teams in Colombo, Sri Lanka, and Austin and Houston, Texas, in the USA)
-* June 2020: Our paper Deep Learning of Augmented Reality Based Human Interactions for Automating a Robot Team 
-    got accepted to ICCAR 2020 (International Conference on Control, Automation and Robotics)
-* December 2018: Graduated from the Faculty of Engineering, University of Moratuwa, Sri Lanka 
-    with a first class in BSc.(Hons.) in Electronics and Telecommunication Engineering.
+* December 2020: Left my first job at Sysco LABS, Sri Lanka (Sysco LABS supports Sysco’s digital transformation with engineering teams in Colombo, Sri Lanka, and Austin and Houston, Texas, in the USA)
+* June 2020: Our paper Deep Learning of Augmented Reality Based Human Interactions for Automating a Robot Team got accepted to ICCAR 2020 (International Conference on Control, Automation and Robotics)
+* December 2018: Graduated from the Faculty of Engineering, University of Moratuwa, Sri Lanka with a first class in BSc.(Hons.) in Electronics and Telecommunication Engineering.
 
 
