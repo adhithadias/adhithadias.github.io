@@ -28,7 +28,10 @@ supervision of
 Upon graduation, before starting my graduate studies, I worked as a Software Engineer at Sysco LABS, Sri Lanka where we developed and maintained applications for Sysco Corporation, USA.
 {: .text-justify}
 
-[CV]({{ "/assets/pdf/Adhitha_Dias_CV.pdf" | relative_url }})   [SOP(Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }})
+[CV]({{ "/assets/pdf/Adhitha_Dias_CV.pdf" | relative_url }}) &nbsp; &nbsp; 
+[SOP (Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }}) &nbsp; &nbsp; 
+[Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
+[Service Letter (Sysco)]({{ "/assets/pdf/service_letter_adhitha_dias.pdf" | relative_url }}) &nbsp; &nbsp;
 {: .text-left}
 
 
