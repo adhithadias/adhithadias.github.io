@@ -8,6 +8,8 @@ main:
     url: /publications/
   - title: "Experience"
     url: /experience/
+  - title: "Achievements"
+    url: /achievements/
   - title: "Posts"
     url: /year-archive/
   - title: "Portfolio"
