@@ -27,7 +27,7 @@ font-size: 12px
 
 ---
 
-### Software Engineer, Sysco LABS, Sri Lanka ()
+### Software Engineer, Sysco LABS, Sri Lanka (Branch of Sysco Corporation, Houston, TX)
 (Feb 2019 - Dec 2021)
 
 - Merchandising Authorization and Authentication (Jun 2020 - Dec 2020)
@@ -53,5 +53,28 @@ font-size: 12px
     - Technologies: MySQL, Twilio integration, SendGrid integration, Slack integration, Bash shell scripting, Redis, Graylog, Symfony, PHP
 
 - Sales Demo Data Pumping Tool (Cloud Reports) (Jan 2019 - Jan 2020)
+    - Developed the application from scratch by myself.
+    - The application consisted of a UI automation and a data pumping tool to mock an existing user and pump data as a different user by changing data that needs changing. This application was helpful for sales representatives for demo purposes of the Cloud Reports components.
+    - Technologies: JavaScript, NodeJS, Puppeteer, Java, CouchDB
+
+- UA-REPORTS (Cloud Reports)
+    - Engaged in feature developments in the application mainly in transaction reports section.
+    - Universal Admin Reports is a modern reporting application used to provide comprehensive reports for restaurants using CAKE POS devices. Users can view data on sales, payments, transactions, payroll, and taxes and use advanced filtering options to analyze data.
+    - The specialty of the application originates from its ability to handle enormous amounts of data for user accessibility.
+    - Technologies: NodeJS, ExpressJS, ES6, React/Redux, HTML/CSS, Gulp, Webpack, Mocha/Chai, SonarQube, Jenkins, Graylog, Redis, REST, Docker, AWS ECS, AWS S3, Java Spring Web Flux, Wiremock, REST, Jira, GIT, Microservices, SonarQube, Jenkins, Agile.
+
+---
+
+### Research Assistant, School of Information Systems (SIS), Singapore Management University (SMU), Singapore
+(June 2017 - Dec 2017)
+
+- Wi-Fi based Indoor Localization using Distributed Antennas
+    - Worked on finding a localization solution using different Wi-Fi access points using the angle of arrival of the Wi-Fi packets.
+    - Technologies/Hardware/Algorithms: FPGA, GNU Radio, IEEE 802.11 PHY, OFDM, WARP devices, MATLAB, Music and SAGE algorithms
+
+- Follow My Lead
+    - Video-based indoor navigation system. 
+    - Came up with a new algorithm for check-point acquisition from the video streams recorded. 
+    - Technologies: Android, AR, Sensor Fusion, OpenCV-based Image Processing
 
 ----
