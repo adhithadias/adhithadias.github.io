@@ -13,7 +13,7 @@ toc: true
 {% include gallery id="layouts_gallery" caption="" %}
 
 ## Download
-Click to view my  [Curriculum Vitae \[PDF\]]({{ "/assets/pdf/Adhitha_Dias_CV.pdf" | relative_url }})
+Click to view my  [Curriculum Vitae \[PDF\]]({{ "/assets/pdf/adhitha_dias_cv.pdf" | relative_url }})
 
 ## Other documents
 Click to view my  [Transcript \[PDF\]]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }})

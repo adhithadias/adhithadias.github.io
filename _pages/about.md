@@ -29,7 +29,7 @@ Upon graduation, before starting my graduate studies, I worked as a Software Eng
 {: .text-justify}
 
 [Resume]({{ "/assets/pdf/resume.pdf" | relative_url }}) &nbsp; &nbsp; 
-[CV]({{ "/assets/pdf/Adhitha_Dias_CV.pdf" | relative_url }}) &nbsp; &nbsp; 
+[CV]({{ "/assets/pdf/adhitha_dias_cv.pdf" | relative_url }}) &nbsp; &nbsp; 
 [SOP (Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }}) &nbsp; &nbsp; 
 [Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
 [Service Letter (Sysco)]({{ "/assets/pdf/service_letter_adhitha_dias.pdf" | relative_url }}) &nbsp; &nbsp;
