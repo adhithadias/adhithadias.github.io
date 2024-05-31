@@ -20,7 +20,7 @@ where I completed my thesis on Deep Learning through Augmented Reality Based Use
 {: .text-justify}
 
 During my undergrad, I did an internship at LiveLabs Urban Lifestyle Innovation Platform, School of Information Systems, Singapore Management University with the
-supervision of 
+supervision of
 [Prof. Jie Xiong]({{"https://scholar.google.com/citations?user=GR9VzaMAAAAJ&hl=en"}}) and
 [Prof. Youngki Lee]({{"https://scholar.google.com/citations?user=qhKU0oMAAAAJ&hl=en"}}) on Human Computer Interaction and wifi based indoor localization using direction of arrival estimation techniques.
 {: .text-justify}
@@ -28,12 +28,12 @@ supervision of
 Upon graduation, before starting my graduate studies, I worked as a Software Engineer at Sysco LABS, Sri Lanka where we developed and maintained applications for Sysco Corporation, USA.
 {: .text-justify}
 
-[Resume]({{ "/assets/pdf/resume.pdf" | relative_url }}) &nbsp; &nbsp; 
-[CV]({{ "/assets/pdf/adhitha_dias_cv.pdf" | relative_url }}) &nbsp; &nbsp; 
-[SOP (Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }}) &nbsp; &nbsp; 
-[Transcript (Grad)]({{ "/assets/pdf/adhitha_dias_grad_transcript.pdf" | relative_url }}) &nbsp; &nbsp; 
-[Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
-[Service Letter (Sysco)]({{ "/assets/pdf/service_letter_adhitha_dias.pdf" | relative_url }}) &nbsp; &nbsp;
+[Resume]({{ "/assets/pdf/resume.pdf" | relative_url }}) &nbsp; &nbsp;
+[CV]({{ "/assets/pdf/adhitha_dias_cv.pdf" | relative_url }}) &nbsp; &nbsp;
+[SOP (Outdated)]({{ "/assets/pdf/Adhitha_Dias_SOP.pdf" | relative_url }}) &nbsp; &nbsp;
+[Transcript (Grad)]({{ "/assets/pdf/adhitha_dias_grad_transcript.pdf" | relative_url }}) &nbsp; &nbsp;
+<!-- [Transcript (Undergrad)]({{ "/assets/pdf/Adhitha_Dias_Transcript.pdf" | relative_url }}) &nbsp; &nbsp;
+[Service Letter (Sysco)]({{ "/assets/pdf/service_letter_adhitha_dias.pdf" | relative_url }}) &nbsp; &nbsp; -->
 {: .text-left}
 
 
@@ -49,5 +49,3 @@ Upon graduation, before starting my graduate studies, I worked as a Software Eng
 * December 2020: Left my first job at Sysco LABS, Sri Lanka (Sysco LABS supports Sysco’s digital transformation with engineering teams in Colombo, Sri Lanka, and Austin and Houston, Texas, in the USA)
 * June 2020: Our paper Deep Learning of Augmented Reality Based Human Interactions for Automating a Robot Team got accepted to ICCAR 2020 (International Conference on Control, Automation and Robotics)
 * December 2018: Graduated from the Faculty of Engineering, University of Moratuwa, Sri Lanka with a first class in BSc.(Hons.) in Electronics and Telecommunication Engineering.
-
-
