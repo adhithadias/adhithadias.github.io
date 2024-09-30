@@ -10,22 +10,19 @@ Email: kadhitha [AT] purdue [DOT] edu
 {: .text-justify}
 
 
-<span style="color:blue">*I am currently looking for internship opportunities, for summer 2025, related to compilers, programming languages and high-performance computing, preferably research-oriented. Email: kadhitha@purdue.edu*</span>
+<span style="color:blue">*I am actively seeking internship opportunities, preferably research-oriented, for the summer of 2025, with a focus on compilers, programming languages, and high-performance computing. Email: kadhitha@purdue.edu*</span>
 
-I am Adhitha Dias, a graduate student at Purdue ECE, working with [Prof. Milind Kulkarni]({{"https://engineering.purdue.edu/~milind/"}}). I am broadly interested in systems, compilers and high performance computing. My current research focuses on optimized code generation for sparse tensor algebraic operations.
+I am a graduate student in Computer Engineering at Purdue University, working under the guidance of [Prof. Milind Kulkarni]({{"https://engineering.purdue.edu/~milind/"}}). My research interests span systems, compilers, and high-performance computing, with my current work focusing on optimized code generation for sparse tensor algebra operations.
 
-I received my Honors Degree of Bachelor of Science Honors in Engineering (B.Sc.(Hons.) in Engineering) from University of Moratuwa,
-where I completed my thesis on Deep Learning through Augmented Reality Based User Interaction for Collaborative Automation under the advisement of
+I earned my Bachelor's degree with Honors in Engineering (B.Sc.(Hons.) in Engineering) from the University of Moratuwa, Sri Lanka, where I completed my thesis on "Deep Learning through Augmented Reality-Based User Interaction for Collaborative Automation" under the supervision of
 [Dr. Ranga Rodrigo]({{"https://ranga.staff.uom.lk/"}}).
 {: .text-justify}
 
-During my undergrad, I did an internship at LiveLabs Urban Lifestyle Innovation Platform, School of Information Systems, Singapore Management University with the
-supervision of
+During my undergraduate studies, I interned at the LiveLabs Urban Lifestyle Innovation Platform at the School of Information Systems, Singapore Management University. Under the supervision of
 [Prof. Jie Xiong]({{"https://scholar.google.com/citations?user=GR9VzaMAAAAJ&hl=en"}}) and
-[Prof. Youngki Lee]({{"https://scholar.google.com/citations?user=qhKU0oMAAAAJ&hl=en"}}) on Human Computer Interaction and wifi based indoor localization using direction of arrival estimation techniques.
-{: .text-justify}
+[Prof. Youngki Lee]({{"https://scholar.google.com/citations?user=qhKU0oMAAAAJ&hl=en"}}), I worked on Human-Computer Interaction and Wi-Fi-based indoor localization using direction-of-arrival estimation techniques.
 
-Upon graduation, before starting my graduate studies, I worked as a Software Engineer at Sysco LABS, Sri Lanka where we developed and maintained applications for Sysco Corporation, USA.
+Following graduation, I worked as a Software Engineer at Sysco LABS, Sri Lanka, where I contributed to the development and maintenance of applications for Sysco Corporation, USA.
 {: .text-justify}
 
 [Resume]({{ "/assets/pdf/resume.pdf" | relative_url }}) &nbsp; &nbsp;
