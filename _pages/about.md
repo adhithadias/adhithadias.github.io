@@ -37,6 +37,9 @@ Following graduation, I worked as a Software Engineer at Sysco LABS, Sri Lanka, 
 ## News!
 ---
 
+* Octobar 2024: My paper SparseAuto: An Auto-scheduler for Sparse Tensor Computstions using Recursive Loop Nest Restructuring got accepted to The Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2024.
+* Aug 2024: I have completed an internship with Meta, formerly known as Facebook, on MTIA compiler working on adding float8 compiler support, and writing quantization and dequantization kernels.
+* Aug 2023: I have completed an internship with Adobe on accelerating their Firefly, GenAI Diffusion based image generation model, using activation checkpointing and model parallelism.
 * June 2022: Our paper, my first paper as a grad student, won the best paper award at the International Conference on Supercomputing (ICS) '22
 * June 2022: Received a travel grant to attend PLDI '22
 * May 2022: Our paper titled, SparseLNR: Accelerating Sparse Tensor Computations Using Loop Nest Restructuring, was accepted at the International Conference on Supercomputing '22
