@@ -10,9 +10,9 @@ Email: kadhitha [AT] purdue [DOT] edu
 {: .text-justify}
 
 
-<span style="color:blue">*I am actively seeking internship opportunities, preferably research-oriented, for the summer of 2025, with a focus on compilers, programming languages, and high-performance computing. Email: kadhitha@purdue.edu*</span>
+<!-- <span style="color:blue">*I am actively seeking internship opportunities, preferably research-oriented, for the summer of 2025, with a focus on compilers, programming languages, and high-performance computing. Email: kadhitha@purdue.edu*</span> -->
 
-I am a graduate student in Computer Engineering at Purdue University, working under the guidance of [Prof. Milind Kulkarni]({{"https://engineering.purdue.edu/~milind/"}}). My research interests span systems, compilers, and high-performance computing, with my current work focusing on optimized code generation for sparse tensor algebra operations.
+I am a graduate student in Computer Engineering at Purdue University, working with [Prof. Milind Kulkarni]({{"https://engineering.purdue.edu/~milind/"}}). My research interests span systems, compilers, and high-performance computing, with my current work focusing on optimized code generation for sparse tensor algebra operations. I have experience in compiler development, kernel optimizations, performance projectionsa, and machine learning model performance optimizations.
 
 I earned my Bachelor's degree with Honors in Engineering (B.Sc.(Hons.) in Engineering) from the University of Moratuwa, Sri Lanka, where I completed my thesis on "Deep Learning through Augmented Reality-Based User Interaction for Collaborative Automation" under the supervision of
 [Dr. Ranga Rodrigo]({{"https://ranga.staff.uom.lk/"}}).
